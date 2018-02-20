@@ -3,4 +3,4 @@ Quinlin McNatt
 Lab 5 Software Development
 
 
-Partner: <Jacob Hans>
+Partner: Jacob Hans
